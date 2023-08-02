@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+ul {
+  display: flex;
+}
+ul li {
+  display: flex;
+}
+.nav-elements {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.logo-title {
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.img-logo {
+  width: 60px;
+  padding-right: 10px;
+  cursor: pointer;
+  
+}
+.vr{
+  color: white;
+}
+.btn-sign-up {
+  border: 0;
+  text-decoration: none;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(30px);
+  cursor: pointer;
+}
+.btn-sign-up:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 400px;
+}

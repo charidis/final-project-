@@ -1,0 +1,7 @@
+.navbar {
+  width: 97vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 65px;
+}

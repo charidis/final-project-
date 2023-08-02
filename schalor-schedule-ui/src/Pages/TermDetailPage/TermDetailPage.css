@@ -1,0 +1,10 @@
+.term-detail-page{
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    margin: 0px;
+  }
+  

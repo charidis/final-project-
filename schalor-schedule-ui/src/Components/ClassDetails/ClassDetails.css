@@ -1,0 +1,21 @@
+.class-detial-dash {
+  padding: 5px 25px;
+  width: 81vw;
+  color: rgba(25, 23, 17, 0.6);
+}
+.class-detial-logo-title {
+  color: rgba(25, 23, 17, 0.6);
+}
+.page-menu {
+  display: flex;
+  justify-content: flex-end;
+}
+.page-menu svg {
+  margin: 8px 10px;
+}
+.add-class-btn {
+  background-color: transparent;
+  border: none;
+  color: rgba(25, 23, 17, 0.6);
+  margin-left: 72px;
+}

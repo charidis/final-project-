@@ -1,0 +1,29 @@
+.login-page-btn {
+  border: 0;
+  text-decoration: none;
+
+  margin: 15px 15px;
+
+  cursor: pointer;
+}
+.login-page-btn:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.login-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+
+  align-items: center;
+}
+.login-form {
+  width: 400px;
+  margin-top: 115px;
+  display: flex;
+  flex-direction: column;
+   align-items: center;
+}
+.login-form .mb-3{
+  width: 350px;
+}

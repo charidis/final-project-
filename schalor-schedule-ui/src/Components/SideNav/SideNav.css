@@ -1,0 +1,29 @@
+.side-nav{
+    color: rgba(25, 23, 17, 0.6);
+    background-color: rgb(251, 251, 250);
+    box-shadow: rgba(0, 0, 0, 0.024) -1px 0px 0px 0px inset;
+    width: 240px;
+    padding: 15px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.user-initial{
+    background-color: rgba(25, 23, 17, 0.6);
+    color: rgb(251, 251, 250);
+    padding: 5px;
+    margin-right: 10px;
+}
+.term-btn{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    margin-left: 3px;
+}
+.class-search-bar{
+    color: rgba(25, 23, 17, 0.6);
+    background-color: transparent;
+    border: none;
+    margin: 10px 0px;
+    width: 200px;
+}
